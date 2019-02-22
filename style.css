@@ -238,9 +238,9 @@ section:not(.home) {padding: 8em 0px;}
 
 .left-column, .right-column {min-height: 100vh;}
 .left-column, .right-column {padding: 3em 0px;}
-section.home .left-column {background-color: #E3B505;}
+section.home .left-column {background-color: #bbb;}
 section.home .right-column {
-  background-image: url(img/background-1.jpg);
+  background-image: url(imgs/foto1.jpg);
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -464,7 +464,7 @@ footer .title-2 {color: #E3B505;}
   .ir-arriba{
     display:none;
     padding:20px;
-    background-color:#e3b505;
+    background-color:#bbb;
     font-size:20px;
     text-align:center;    
     cursor:pointer;
@@ -526,7 +526,7 @@ footer .title-2 {color: #E3B505;}
   left: 1px;
   width: 100%;
   height: 5px;
-  background-color: #fff;
+  background-color: #000;
   content: "";
 }
 
@@ -548,7 +548,7 @@ footer .title-2 {color: #E3B505;}
  * right that will be close on re-click of the icon.
  */
 .c-hamburger--htra {
-  background-color: #e3b505;
+  background-color: #bbb;
   border-radius: 50%;
   -webkit-box-shadow: 3px 3px 7px 2px rgba(0,0,0,0.75);
 }
